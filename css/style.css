@@ -8646,19 +8646,7 @@ h1, h2, h3, h4, h5,
 
        
 
-          @media (max-width: 507.98px)  {
-            .img-fluid{
-                  width: 80%;
-            }
-            .about-img{
-              display: flex;
-               justify-content: center;
-            }
-            .img{
-              width: 50%;
-            }
-
-          }
+      
 
 .hero-wrap {
   width: 100%;
